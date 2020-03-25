@@ -1,0 +1,89 @@
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+C:\Users\murat\Desktop\ \6 C# 2012\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \4 PROGRAMLAMA\1 C# 2012\R-T\TESİS PLANLAMA\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\9 TESİS PLANLAMA\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\1 PROJELER 1\2 C# GÖRSEL PROGRAMLAMA\1 BİTMİŞ PROJELER\9 TESİS PLANLAMA\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.BaşaBaş.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+C:\Users\Murat Bilginer\Desktop\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\Yeni klasör (2)\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+C:\Users\Murat Bilginer\Desktop\Yeni klasör (2)\1 C# Programlama Kapsamlı Proje 1 Tesis Planlama\PROGRAM\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\38 Tesis Planlama v1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+G:\03 Cloud\04 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\12 - Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\bin\Debug\TESİS PLANLAMA.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Dikdoğrusal.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.FaktörAğırlık.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Oyun.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS_PLANLAMA.Toplammaliyet.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\03 - Codia Tesis Planlama V1.0\TESİS PLANLAMA\obj\x86\Debug\TESİS PLANLAMA.csproj.GenerateResource.Cache
